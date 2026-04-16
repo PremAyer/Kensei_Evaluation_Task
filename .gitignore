@@ -1,0 +1,7 @@
+*
+!patches/
+!patches/**
+!scripts/
+!scripts/**
+!run_custom_eval.sh
+!.gitignore

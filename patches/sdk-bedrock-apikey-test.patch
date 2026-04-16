@@ -1,0 +1,29 @@
+diff --git a/tests/sdk/llm/test_api_key_validation.py b/tests/sdk/llm/test_api_key_validation.py
+index 3e64f6ab..3c0c88c8 100644
+--- a/tests/sdk/llm/test_api_key_validation.py
++++ b/tests/sdk/llm/test_api_key_validation.py
+@@ -72,11 +72,11 @@ def test_bedrock_model_with_none_api_key():
+     assert llm.aws_region_name == "us-east-1"
+ 
+ 
+-def test_bedrock_model_with_api_key_not_forwarded_to_litellm():
+-    """Test that Bedrock models never forward LLM.api_key to LiteLLM.
++def test_bedrock_model_with_api_key_forwarded_to_litellm():
++    """Test that Bedrock models forward LLM.api_key to LiteLLM for ABSK Bearer auth.
+ 
+-    LiteLLM interprets the Bedrock api_key parameter as an AWS bearer token.
+-    Forwarding a non-Bedrock key (e.g. OpenAI/Anthropic) breaks IAM/SigV4 auth.
++    LiteLLM interprets the Bedrock api_key parameter as an AWS bearer token,
++    which is required for ABSK (API Key) authentication with Bedrock.
+     """
+ 
+     llm = LLM(
+@@ -85,7 +85,7 @@ def test_bedrock_model_with_api_key_not_forwarded_to_litellm():
+         api_key=SecretStr("sk-ant-not-a-bedrock-key"),
+     )
+     assert llm.api_key is not None
+-    assert llm._get_litellm_api_key_value() is None
++    assert llm._get_litellm_api_key_value() == "sk-ant-not-a-bedrock-key"
+ 
+ 
+ def test_non_bedrock_model_with_valid_key():

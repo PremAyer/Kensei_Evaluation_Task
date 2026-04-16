@@ -1,0 +1,13 @@
+diff --git a/openhands-agent-server/openhands/agent_server/docker/build.py b/openhands-agent-server/openhands/agent_server/docker/build.py
+index 6402b19e..9eb8ac26 100755
+--- a/openhands-agent-server/openhands/agent_server/docker/build.py
++++ b/openhands-agent-server/openhands/agent_server/docker/build.py
+@@ -572,7 +572,7 @@ def build(opts: BuildOptions) -> list[str]:
+     if push:
+         args += ["--platform", ",".join(opts.platforms), "--push"]
+     else:
+-        args += ["--load"]
++        args += ["--platform", ",".join(opts.platforms), "--load"]
+ 
+     for t in tags:
+         args += ["--tag", t]
