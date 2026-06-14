@@ -1,0 +1,10 @@
+id,type,name,description,category,variation_id,variation_name,price_amount,currency
+ITEM_PIGNOLI,ITEM,Pignoli Cookies,Almond paste cookies rolled in pine nuts,Holiday Market,VAR_PIGNOLI,each,350,USD
+ITEM_PANETTONE,ITEM,Small-Batch Panettone,"Traditional panettone, almond glaze, 1 lb",Holiday Market,VAR_PANETTONE,1 lb loaf,1600,USD
+ITEM_BISCOTTI,ITEM,Cranberry Pistachio Biscotti,"Twice-baked, cranberry and pistachio",Holiday Market,VAR_BISCOTTI,each,300,USD
+ITEM_TWOTIER,ITEM,Two-Tier Custom Cake,"Made to order, buttercream",Custom Cakes,VAR_TWOTIER,serves 20,22000,USD
+ITEM_NAKED,ITEM,Naked Single Tier,"Made to order, naked finish",Custom Cakes,VAR_NAKED,serves 10,9500,USD
+ITEM_CANNOLI,ITEM,Cannoli Tray,"Filled to order, tray of 30",Catering,VAR_CANNOLI,tray,9000,USD
+ITEM_SHORTBREAD,ITEM,Espresso Shortbread,Buttery shortbread with espresso,Holiday Market,VAR_SHORTBREAD,each,300,USD
+ITEM_DRIP,ITEM,Drip Coffee,Market day coffee,Drinks,VAR_DRIP,12 oz,250,USD
+ITEM_TOTE,ITEM,rosa's kitchen Tote,Canvas tote,Merch,VAR_TOTE,each,1200,USD

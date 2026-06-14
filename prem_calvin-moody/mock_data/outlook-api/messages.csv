@@ -1,0 +1,4 @@
+id,subject,from_name,from_address,to_name,to_address,body_preview,content_type,is_read,importance,received_date
+AAMkpkg0001,Your Microsoft account security info,Microsoft account team,account-security-noreply@accountprotection.microsoft.com,Calvin Moody,calvin.moody@outlook.com,"We noticed a new sign-in. If this was you, no action is needed.",html,true,normal,2026-08-14T03:22:00Z
+AAMkpkg0002,Reminder: storage almost full,Microsoft 365,no-reply@microsoft.com,Calvin Moody,calvin.moody@outlook.com,Your OneDrive is almost full. Upgrade or free up space.,html,true,normal,2026-07-30T11:00:00Z
+AAMkpkg0003,Welcome to Outlook,Outlook Team,no-reply@outlook.com,Calvin Moody,calvin.moody@outlook.com,Tips to get the most out of your new inbox.,html,true,normal,2025-12-02T09:00:00Z

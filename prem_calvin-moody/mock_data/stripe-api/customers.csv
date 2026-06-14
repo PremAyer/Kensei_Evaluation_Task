@@ -1,0 +1,7 @@
+id,name,email,description,currency,delinquent,balance,created,phone
+cus_rkMiriam,Miriam Lopez,miriam.h.lopez@gmail.com,Custom cake client,usd,false,0,1786560000,+12155550162
+cus_rkRusso,Daniela Russo,daniela.russo@gmail.com,Two-tier cake client,usd,false,0,1778000000,+12155550163
+cus_rkNguyen,Kevin Nguyen,kevin.nguyen@gmail.com,Panettone order client,usd,false,0,1764900000,+12155550164
+cus_rkDavies,Sarah Davies,sarah.davies@gmail.com,Birthday cake client,usd,false,0,1773400000,+12155550165
+cus_rkPerez,Luis Perez,luis.perez@gmail.com,Cupcake order client,usd,false,0,1782000000,+12155550166
+cus_rkObi,Adaeze Obi,adaeze.obi@gmail.com,Engagement cake client,usd,false,0,1788300000,+12155550167

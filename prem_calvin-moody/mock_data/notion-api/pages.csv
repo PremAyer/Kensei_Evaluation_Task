@@ -1,0 +1,9 @@
+id,parent_type,parent_id,title,created_time,last_edited_time,created_by,archived,icon,cover_url
+page-bizplan,workspace,workspace-rosas-kitchen,rosa's kitchen - Business Plan v2,2026-02-10T10:00:00.000Z,2026-09-12T14:00:00.000Z,user-calvin,false,bread,
+page-funds,workspace,workspace-rosas-kitchen,Use of Funds,2026-02-12T09:00:00.000Z,2026-08-20T16:30:00.000Z,user-calvin,false,,
+page-storefront,workspace,workspace-rosas-kitchen,Storefront Shortlist - Fairmount / Northern Liberties,2026-03-01T11:00:00.000Z,2026-09-05T10:10:00.000Z,user-calvin,false,house,
+page-menu,workspace,workspace-rosas-kitchen,Opening Menu Draft,2026-03-15T13:00:00.000Z,2026-09-22T19:00:00.000Z,user-calvin,false,,
+page-suppliers,workspace,workspace-rosas-kitchen,"Supplier Notes - flour, chocolate, dairy",2026-04-02T08:30:00.000Z,2026-08-28T12:00:00.000Z,user-calvin,false,,
+page-mood,workspace,workspace-rosas-kitchen,Mood Board and Aesthetic,2026-04-20T20:00:00.000Z,2026-09-08T21:00:00.000Z,user-calvin,false,palette,
+page-comp,workspace,workspace-rosas-kitchen,Competitor Notes,2026-05-05T18:00:00.000Z,2026-07-19T09:30:00.000Z,user-calvin,false,,
+page-checklist,workspace,workspace-rosas-kitchen,Launch Checklist,2026-05-30T07:00:00.000Z,2026-09-25T08:00:00.000Z,user-calvin,false,check,

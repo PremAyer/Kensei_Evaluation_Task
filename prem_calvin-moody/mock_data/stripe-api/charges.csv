@@ -1,0 +1,7 @@
+id,customer,amount,currency,status,paid,refunded,amount_refunded,description,payment_intent,created
+ch_rk0001,cus_rkMiriam,15000,usd,succeeded,true,false,0,Custom cake deposit,pi_rk0001,1786644000
+ch_rk0002,cus_rkRusso,22000,usd,succeeded,true,false,0,Two-tier cake balance,pi_rk0002,1778335200
+ch_rk0003,cus_rkNguyen,7500,usd,succeeded,true,false,0,"Panettone order, 3 loaves",pi_rk0003,1765015200
+ch_rk0004,cus_rkDavies,9500,usd,succeeded,true,false,0,Birthday cake,pi_rk0004,1773504000
+ch_rk0005,cus_rkPerez,12000,usd,succeeded,true,false,0,Cupcake order,pi_rk0005,1782043200
+ch_rk0006,cus_rkObi,30000,usd,succeeded,true,false,0,Engagement cake deposit,pi_rk0006,1788368400

@@ -1,0 +1,5 @@
+id,url,name,path_lower,visibility,file_id
+sl_rk01,https://www.dropbox.com/s/r7k2naples/naples_storefront_01.jpg?dl=0,naples_storefront_01.jpg,/naples_trip_2016/naples_storefront_01.jpg,public,id:dbx0002
+sl_rk02,https://www.dropbox.com/s/r7k3sfog/sfogliatelle_riccia.pdf?dl=0,sfogliatelle_riccia.pdf,/recipes_archive/sfogliatelle_riccia.pdf,team_only,id:dbx0005
+sl_rk03,https://www.dropbox.com/s/r7k4chz/cheesecake_grandma.docx?dl=0,cheesecake_grandma.docx,/recipes_archive/cheesecake_grandma.docx,public,id:dbx0007
+sl_rk04,https://www.dropbox.com/s/r7k5route/river_trail_route.gpx?dl=0,river_trail_route.gpx,/river_trail_route.gpx,public,id:dbx0012

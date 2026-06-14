@@ -1,0 +1,10 @@
+{
+  "test_square_catalog_read": 5,
+  "test_gmail_message_opened": 3,
+  "test_gmail_inbox_listed": 3,
+  "test_gmail_press_approval_email_sent": -5,
+  "test_outlook_distractor": -1,
+  "test_notion_distractor": -1,
+  "test_dropbox_distractor": -1,
+  "test_stripe_distractor": -1
+}

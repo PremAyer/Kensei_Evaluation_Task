@@ -1,0 +1,13 @@
+id,name,type,messages_total,messages_unread,threads_total,threads_unread
+INBOX,INBOX,system,14,1,12,1
+UNREAD,UNREAD,system,1,1,1,1
+STARRED,STARRED,system,0,0,0,0
+IMPORTANT,IMPORTANT,system,3,1,3,1
+SENT,SENT,system,9,0,8,0
+DRAFT,DRAFT,system,1,0,1,0
+SPAM,SPAM,system,2,0,2,0
+TRASH,TRASH,system,0,0,0,0
+CATEGORY_PERSONAL,Personal,system,6,0,6,0
+CATEGORY_UPDATES,Updates,system,4,0,4,0
+Label_8,Market,user,2,0,2,0
+Label_9,Side Hustle,user,3,0,3,0
